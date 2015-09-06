@@ -8,6 +8,8 @@
     xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
     xsi:nil = "true"/>
 
+
+
 <NetuneiGoremSholech xmlns:xsd = "http://www.w3.org/2001/XMLSchema" xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance">
     <KOD-SHOLECH>2</KOD-SHOLECH>
     <SUG-MEZAHE-SHOLECH>1</SUG-MEZAHE-SHOLECH>
